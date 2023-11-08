@@ -6,11 +6,11 @@ import pandas as pd
 import ast
 
 
-business_file = '/data/business.json'
-review_file = '/data/review.json'
-user_file = '/data/user.json'
-tip_file = '/data/tip.json'
-checkin_file = '/data/checkin.json'
+business_file = '/data/y_business.json'
+review_file = '/data/y_review.json'
+user_file = '/data/y_user.json'
+tip_file = '/data/y_tip.json'
+checkin_file = '/data/y_checkin.json'
 
 # BUSINESS.JSON
 business_data = []
